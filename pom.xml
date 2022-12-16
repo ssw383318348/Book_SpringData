@@ -16,7 +16,7 @@
   <!-- 版本控制 -->
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <spring.version>5.0.4.RELEASE</spring.version>
+    <spring.version>5.2.20.RELEASE</spring.version>
     <hibernate.version>5.2.10.Final</hibernate.version>
   </properties>
 
